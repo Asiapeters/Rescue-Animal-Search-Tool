@@ -1,2 +1,4 @@
 # Rescue-Animal-Search-Tool
-Tool for tracking animals used in search and rescue operations.
+A software tool for tracking animals used in search and rescue operations, sometimes known as rescue animals. The firm acquires and trains these rescue animals to save people in difficult (or even life-threatening) emergencies.
+---
+# Instructions
